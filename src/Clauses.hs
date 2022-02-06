@@ -1,6 +1,4 @@
-{-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
-{-# HLINT ignore "Fuse mapM_/map" #-}
-module Clauses where
+module Clauses (rprove) where 
 
 import Prop
 import Data.Maybe
